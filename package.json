@@ -1,7 +1,7 @@
 {
   "name": "probot-auto-assigner",
   "version": "1.0.0",
-  "description": "Probot app that randomnly assigns maintainers to new issues.",
+  "description": "Probot app that randomly assigns maintainers to new issues.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
